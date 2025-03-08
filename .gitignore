@@ -1,0 +1,181 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# Next.js build output
+.next/
+
+# Nuxt.js build output
+.nuxt/
+
+# Gatsby files
+.cache/
+public/
+
+# Vuepress build output
+.vuepress/dist
+
+# Serverless directories
+.serverless/
+
+# FuseBox cache
+.fusebox/
+
+# DynamoDB Local files
+.dynamodb/
+
+# TernJS port file
+.tern-port
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# React Native
+.expo/
+.expo-shared/
+
+# Parcel-bundler cache (https://parceljs.org/)
+.cache
+dist
+
+# SvelteKit build / generated files
+.svelte-kit
+build
+
+# Storybook files
+out/
+storybook-static/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional stylelint cache
+.stylelintcache
+
+# Optional Prettier cache
+.prettiercache
+
+# Optional Stylelint cache
+.stylelintcache
+
+# Optional Jest cache
+jest/
+
+# Optional Cypress cache
+.cypress_cache/
+
+# Optional Playwright cache
+.playwright-cache/
+
+# Optional Puppeteer cache
+.puppeteer-cache/
+
+# Optional Cypress screenshots
+cypress/screenshots/
+
+# Optional Cypress videos
+cypress/videos/
+
+# Optional Cypress downloads
+cypress/downloads/
+
+# Optional Cypress fixtures
+cypress/fixtures/
+
+# Optional Cypress plugins
+cypress/plugins/
+
+# Optional Cypress support
+cypress/support/
+
+# Optional Cypress integration
+cypress/integration/
+
+# Optional Cypress examples
+cypress/examples/
+
+# Optional Cypress reports
+cypress/reports/
+
+# Optional Cypress results
+cypress/results/
+
+# Optional Cypress logs
+cypress/logs/
+
+# Optional Cypress screenshots
+cypress/screenshots/
+
+# Optional Cypress videos
+cypress/videos/
+
+# Optional Cypress downloads
+cypress/downloads/
+
+# Optional Cypress fixtures
+cypress/fixtures/
+
+# Optional Cypress plugins
+cypress/plugins/
+
+# Optional Cypress support
+cypress/support/
+
+# Optional Cypress integration
+cypress/integration/
+
+# Optional Cypress examples
+cypress/examples/
+
+# Optional Cypress reports
+cypress/reports/
+
+# Optional Cypress results
+cypress/results/
+
+# Optional Cypress logs
+cypress/logs/
