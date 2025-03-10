@@ -41,28 +41,28 @@ Follow these steps to run the project locally.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username](https://github.com/riteshkumar-0/LMS_Backend.git)/lms.git
-   cd LMS
+   git clone [https://github.com/your-username](https://github.com/riteshkumar-0/LMS-fullstack)/lms.git
+   cd LMS-fullstack
 2. **Install server dependencies:**
    ```bash
-   cd backend
+   cd Backend
    npm install
 
 3. **Install client dependencies:**
    ```bash
-   cd frontend
+   cd Frontend
    npm install
    
 ### Running the Application
 
 1. **Start the backend server:**
    ```bash
-   cd backend
+   cd Backend
    npm run
 
 2. **Start the frontend server:**
    ```bash
-   cd frontend
+   cd Frontend
    npm install
 
 3. **Open your browser and navigate to:**
@@ -74,10 +74,25 @@ Follow these steps to run the project locally.
 
   1. **Clone the repository:**
    ```bash
-   MONGO_URL=your-mongodb-uri
-   JWT_SECRET=your-jwt-secret
 
 
+   MONGODB_URL='your mongodb url'
 
+   JWT_SECRET='xxxxxx'
+   JWT_EXPIRY=36000000
 
-# LMS_Backend
+   CLOUDINARY_CLOUDE_NAME='your  CLOUDINARY_id'
+   CLOUDINARY_API_KEY=' CLOUDINARY_api'
+   CLOUDINARY_API_SECRET=' Your_CLOUDINARY Code'
+
+   SMTP_HOST='smtp.gmail.com'
+   SMTP_PORT='PORT'
+   SMTP_USERNAME='abc@gmail.com'
+   SMTP_PASSWORD='xxxxx'
+   SMTP_FROM_EMAIL='abc@gmail.com'
+
+   RAZORPAY_API_KEY='xxxx'
+   RAZORPAY_SECRET='xxx'
+   RAZORPAY_PLAN_ID='xxx'
+
+#
