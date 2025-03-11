@@ -14,7 +14,7 @@
 
 ## Overview
 
-This Learning Management System (LMS) is a full-stack application developed using the MERN stack (MongoDB, Express.js, React, Node.js). It provides an online platform for managing courses, delivering content, and facilitating user authentication and authorization. Key features include:
+LetsLearn is a full-stack application developed using the MERN stack (MongoDB, Express.js, React, Node.js). It provides an online platform for managing courses, delivering content, and facilitating user authentication and authorization. Key features include:
 
 - User Authentication and Authorization
 - Course Management
